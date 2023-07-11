@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------
 ### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This is an Front End Project to display a website of details of about Company revenue history of early & monthly with pie & barchart representation,tasks,buttons,cards in an attractive manner and better understanding for Non-Technical persons.
 - --------------------------------------------------------------------------------------------------------------
-### ⚙️ __REALTIME__ USAGE ⚙️ __:__ Educational Applications
+### ⚙️ __REALTIME__ USAGE ⚙️ __:__ FinTech, Data Analysis, Visualization
 ---------------------------------------------------------------------------------------------------------------
 ### 💻 __TECHNICAL__ SPECIFICATIONS 💻 __:__
 * HTML
