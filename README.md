@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------------------------------
 ### 📽️ __LIVE__ __DEMO__ __LINK__ 📽️ __:__ "cool-sunburst-629a78.netlify.app/"
 ---------------------------------------------------------------------------------------------------------------
-### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This is an Front End Project to display a website of details of about Company revenue history of early & monthly with pie & barchart representation,tasks,buttons,cards in an attractive manner and better understanding for non-Technical persons.
+### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This is an Front End Project to display a website of details of about Company revenue history of early & monthly with pie & barchart representation,tasks,buttons,cards in an attractive manner and better understanding for Non-Technical persons.
 - --------------------------------------------------------------------------------------------------------------
 ### ⚙️ __REALTIME__ USAGE ⚙️ __:__ Educational Applications
 ---------------------------------------------------------------------------------------------------------------
