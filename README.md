@@ -14,6 +14,11 @@
 * JSX
 ---------------------------------------------------------------------------------------------------------------
 ### 📷 __IMAGES__ 📷 __:__
+![image](https://github.com/AdityaBK1/SB-Admin-Dashboard/assets/131005390/c917f9d8-cfb0-4a15-9a73-fd721e3fff0f)
+
+![image](https://github.com/AdityaBK1/SB-Admin-Dashboard/assets/131005390/92d45ce7-b7f0-4df4-9f6c-0cd69664da43)
+
+
 ---------------------------------------------------------------------------------------------------------------
 ### If you like it remember to give repo a star ⭐.
 
